@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text_Argentina -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 4/5/2017 12:31:05 PM -->
+<GameData>
+	<LocalizedText>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Gobernadora</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Primera Dama</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Consul</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Encomendera</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Virreina</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Primera Dama</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Presidente</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Evita</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Generala</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_LEU_EVITA" Language="en_US">
+			<Text>Emperatriz</Text>
+		</Row>
+
+
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Corregidor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Corregidora</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Gobernador</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Gobernadora</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Senador</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Senadora</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Hacendado</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Hacendada</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Terrateniente</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Dama</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Virrey</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Virreina</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Hidalgo</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Señora</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Comandante</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Comandante</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Presidente</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Presidenta</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Generala</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_LEU_ARGENTINA" Language="en_US">
+			<Text>Emperador</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_LEU_ARGENTINA_FEMININE" Language="en_US">
+			<Text>Emperatriz</Text>
+		</Row>
+		<!-- Civilization Text -->
+		<Row Tag="LOC_CIVILIZATION_LEU_ARGENTINA_NAME" Language="en_US">
+			<Text>Argentina</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION" Language="en_US">
+			<Text>Argentine Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_ARGENTINA_ADJECTIVE" Language="en_US">
+			<Text>Argentine</Text>
+		</Row>
+		<!-- Trait -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_NAME" Language="en_US">
+			<Text>Malambo y Tango</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION" Language="en_US">
+			<Text>[ICON_GREATWORK_MUSIC]Great Works of Music generate +4 [ICON_PRODUCTION] Production. Your Monuments receive two slots for [ICON_GREATWORK_MUSIC] Great Works of Music. Districts adjacent to Pastures generate +2 [ICON_GREATPERSON] Great Musician Points.</Text>
+		</Row>
+		<!-- Cities -->
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_01" Language="en_US">			<Text>Buenos Aires</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_02" Language="en_US">			<Text>Córdoba</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_03" Language="en_US">			<Text>Rosario</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_04" Language="en_US">			<Text>La Plata</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_05" Language="en_US">			<Text>Tucumán</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_06" Language="en_US">			<Text>Mar del Plata</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_07" Language="en_US">			<Text>Salta</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_08" Language="en_US">			<Text>Santa Fé</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_09" Language="en_US">			<Text>Lanus</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_10" Language="en_US">			<Text>Corrientes</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_11" Language="en_US">			<Text>Bahía Blanca</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_12" Language="en_US">			<Text>San Isidro</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_13" Language="en_US">			<Text>Resistencia</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_14" Language="en_US">			<Text>Vicente Lopez</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_15" Language="en_US">			<Text>Posadas</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_16" Language="en_US">			<Text>Parana</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_17" Language="en_US">			<Text>Merlo</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_18" Language="en_US">			<Text>Jujuy</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_19" Language="en_US">			<Text>Quilmes</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_20" Language="en_US">			<Text>Santiago del Estero</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_21" Language="en_US">			<Text>Pilar</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_22" Language="en_US">			<Text>Banfield</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_23" Language="en_US">			<Text>Guaymallén</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_24" Language="en_US">			<Text>Formosa</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_25" Language="en_US">			<Text>Neuquén</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_26" Language="en_US">			<Text>Las Heras</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_27" Language="en_US">			<Text>Berazátegui</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_28" Language="en_US">			<Text>La Rioja</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_29" Language="en_US">			<Text>Rio Cuarto</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_30" Language="en_US">			<Text>San Juan</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_31" Language="en_US">			<Text>Zamora</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_32" Language="en_US">			<Text>Temperley</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_33" Language="en_US">			<Text>Mendoza</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_34" Language="en_US">			<Text>Monte Grande</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_35" Language="en_US">			<Text>Libertad</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_36" Language="en_US">			<Text>Ushuaia</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_37" Language="en_US">			<Text>Rivadavia</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_38" Language="en_US">			<Text>Barranqueras</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ARGENTINA_39" Language="en_US">			<Text>San Martin</Text></Row>
+		
+
+		<!-- Citizens -->
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_1" Language="en_US">			<Text>Jose</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_2" Language="en_US">			<Text>Manuel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_3" Language="en_US">			<Text>Ernesto</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_4" Language="en_US">			<Text>Juan</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_5" Language="en_US">			<Text>Carlos</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_6" Language="en_US">			<Text>Francisco</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_7" Language="en_US">			<Text>Miguel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_8" Language="en_US">			<Text>Javier</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_9" Language="en_US">			<Text>Enrique</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MALE_10" Language="en_US">			<Text>Leonardo</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_1" Language="en_US">			<Text>Juana</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_2" Language="en_US">			<Text>Cristina</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_3" Language="en_US">			<Text>Mercedes</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_4" Language="en_US">			<Text>Susana</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_5" Language="en_US">			<Text>Manuela</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_6" Language="en_US">			<Text>Francisca</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_7" Language="en_US">			<Text>Victoria</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_8" Language="en_US">			<Text>Florencia</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_9" Language="en_US">			<Text>Enriqueta</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_FEMALE_10" Language="en_US">		<Text>Alfonsina</Text></Row>
+
+		<!-- Citizens Modern-->
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_1" Language="en_US">			<Text>Diego Armando</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_2" Language="en_US">			<Text>Leonel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_3" Language="en_US">			<Text>Baigorri</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_4" Language="en_US">			<Text>Bergoglio</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_5" Language="en_US">			<Text>Pelegrini</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_6" Language="en_US">			<Text>Gardel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_7" Language="en_US">			<Text>Salvador</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_8" Language="en_US">			<Text>Fontanarrosa</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_9" Language="en_US">			<Text>Ernesto</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_MALE_10" Language="en_US">			<Text>Carlos</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_1" Language="en_US">			<Text>Eva</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_2" Language="en_US">			<Text>Maria</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_3" Language="en_US">			<Text>Lola</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_4" Language="en_US">			<Text>Isabel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_5" Language="en_US">			<Text>Zully</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_6" Language="en_US">			<Text>Macarena</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_7" Language="en_US">			<Text>Gabriela</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_8" Language="en_US">			<Text>Fernanda</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_9" Language="en_US">			<Text>Gilda</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ARGENTINA_MODERN_FEMALE_10" Language="en_US">			<Text>Alfonsina</Text></Row>
+
+		<!-- Info -->
+		<Row Tag="LOC_CIVINFO_LEU_ARGENTINA_LOCATION" Language="en_US">
+			<Text>South America</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_ARGENTINA_SIZE" Language="en_US">
+			<Text>Some 1.97 million square miles (2.7 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_ARGENTINA_CAPITAL" Language="en_US">
+			<Text>Buenos Aires, briefly Paraná</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Argentine Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_ARGENTINA_POPULATION" Language="en_US">
+			<Text>Est. 43.5 million</Text>
+		</Row>
+		
+
+		<!-- Pedia -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ARGENTINA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Argentina is a federal republic located in southeastern South America. Covering most of the Southern Cone, it is bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the Atlantic Ocean to the east, Chile to the west and the waters of the Drake Passage to the south.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ARGENTINA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Argentina is derived from the Latin argentum ("silver"). La Plata Basin does not have any sources of silver, but the first Spanish conquerors arrived in the area following rumors of the existence of silver mountains, hence the name.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ARGENTINA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The first use of the name Argentina can be traced to La Argentina, a 1602 poem by Martín del Barco Centenera. Although this name for the La Plata Basin was already in common usage by the 18th century, the area was formally called Viceroyalty of the Río de la Plata, and United Provinces of the Río de la Plata after independence.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ARGENTINA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The culture of Argentina is as varied as the country's geography and is composed of a mix of ethnic groups. Modern Argentine culture has been largely influenced by European immigration, although there are lesser elements of Amerindian and African influences, particularly in the fields of music and art. Buenos Aires, its cultural capital, is largely characterized by both the prevalence of people of European descent, and of conscious imitation of European styles in architecture.Museums, cinemas, and galleries are abundant in all the large urban centers, as well as traditional establishments such as literary bars, or bars offering live music of a variety of genres.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ARGENTINA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>The music of Argentina is known mostly for the tango, which developed in Buenos Aires and surrounding areas, as well as Montevideo, Uruguay. Folk, pop and classical music are also popular, and Argentine artists like Mercedes Sosa and Atahualpa Yupanqui contributed greatly to the development of the nueva canción. Argentine rock has also led to a defiant rock scene in Argentina.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

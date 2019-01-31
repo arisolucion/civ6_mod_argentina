@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text_UruguayCS -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 4/5/2017 1:29:15 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- Replacement Text -->
+		<Update>
+			<Set Text="Montevideo"/>
+			<Where Tag="LOC_CITY_NAME_BUENOS_AIRES_1" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo"/>
+			<Where Tag="LOC_CITY_NAME_BUENOS_AIRES" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo"/>
+			<Where Tag="LOC_CIVILIZATION_BUENOS_AIRES_NAME" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo city-state"/>
+			<Where Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo"/>
+			<Where Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo Suzerain Bonus"/>
+			<Where Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type."/>
+			<Where Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo is the largest city, the capital, and the chief port of Uruguay. The settlement was established in 1724 by Bruno Mauricio de Zabala, as a strategic move amidst a Spanish-Portuguese dispute over the platine region, and as a counter to the Portuguese colony at Colonia del Sacramento."/>
+			<Where Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BUENOS_AIRES_CHAPTER_HISTORY_PARA_1" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Described as a 'vibrant, eclectic place with a rich cultural life', it is the hub of commerce and higher education in Uruguay: its first university, the Universidad de la República, was founded in 1849. The architecture of Montevideo reflects its history, ranging from colonial to Art Deco, and influenced by Spanish, Portuguese, Italian, French and British immigrants."/>
+			<Where Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BUENOS_AIRES_CHAPTER_HISTORY_PARA_2" Language="en_US"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo has a very rich architectural heritage and an impressive number of writers, artists, and musicians. Uruguayan tango is a unique form of dance that originated in the neighbourhoods of Montevideo towards the end of the 1800s. Tango, candombe and murga are the three main styles of music in this city. The city is also the centre of the cinema of Uruguay, which includes commercial, documentary and experimental films. There are two movie theatre companies running seven cinemas"/>
+			<Where Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BUENOS_AIRES_CHAPTER_HISTORY_PARA_3" Language="en_US"/>
+		</Update>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+	<Row Tag="LOC_UNIT_LEU_GAUCHO_NAME" Language="en_US">
+		<Text>Gaucho</Text>
+	</Row>	
+	<Row Tag="LOC_UNIT_LEU_GAUCHO_DESCRIPTION" Language="en_US">
+		<Text>Argentine unique replacement for the Ranger unlocked at Civil Engineering, the Gaucho is a Light Cavalry Unit with the Recon promotion tree. They also receive additional healing when standing on Pasture and Farm Improvements.</Text>
+	</Row>
+
+	<Row Tag="LOC_ABILITY_LEU_GAUCHO_NAME" Language="en_US">
+		<Text>Gauchos of the Estancias</Text>
+	</Row>
+	<Row Tag="LOC_ABILITY_LEU_GAUCHO_DESCRIPTION" Language="en_US">
+		<Text>+10 [ICON_STRENGTH] Combat Strength for Pasture or Farms.</Text>
+	</Row>
+	<Row Tag="LOC_ABILITY_GAUCHO_BONUS" Language="en_US">
+		<Text>+10 [ICON_STRENGTH] Combat Strength for Pasture or Farms.</Text>
+	</Row>
+	
+	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_GAUCHO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>Gaucho is a term commonly used to describe residents of the South American pampas, Gran Chaco, or Patagonian grasslands, found principally in parts of Argentina, Rio Grande do Sul in the south of Brazil, Uruguay, Paraguay, eastern and southern Bolivia and Southern Chile. In Brazil, gaúcho is also the main gentilic of the people from the state of Rio Grande do Sul. Gaucho is a loose equivalent of the North American "cowboy" (vaquero, in Spanish). Like the North American word cowboy, the Chilean huaso, the Cuban guajiro, the Venezuelan or Colombian llanero or the Mexican charro, the term often connotes the 19th century more than the present day; then gauchos made up the majority of the rural population, herding cattle on the vast estancias, and practicing hunting as their main economic activities. There are several conflicting hypotheses concerning the origin of the term. It may derive from the Mapuche cauchu ("vagabond") or from the Quechua huachu ("orphan"), which gives also a different word in American Spanish, guacho and Brazilian Portuguese gaúcho. The first recorded uses of the term date from around the time of Argentine independence in 1816.
+		</Text>
+	</Row>
+		
+	</LocalizedText>
+</GameData>

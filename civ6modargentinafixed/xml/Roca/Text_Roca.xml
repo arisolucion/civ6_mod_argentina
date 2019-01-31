@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Leader Text -->
+		<Row Tag="LOC_LEADER_LEU_ROCA_NAME" Language="en_US">
+			<Text>Julio Roca</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_ROCA_NAME" Language="en_US">
+			<Text>Conquista del Desierto</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_ROCA_DESCRIPTION" Language="en_US">
+			<Text>Receive a [ICON_STRENGTH] Combat Bonus when fighting adjacent to your civilization borders. When an enemy unit is defeated next to an owned Fort or a Pasture it grants you all adjacent tiles. May build Estancia Districts at the discovery of Horseback Riding.
+			</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEU_ROCA_DESCRIPTION" Language="en_US">
+			<Text>+10 from Adjacent Borders.
+			</Text>
+		</Row>
+
+		<!-- Leader Agenda -->
+		<Row Tag="LOC_AGENDA_LEU_ROCA_NAME" Language="en_US">
+			<Text>Civilización y Barbarie</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LEU_ROCA_DESCRIPTION" Language="en_US">
+			<Text>Will try to expand as much as possible. Dislikes civilizations with adjacent units or territory, and civilizations with less technologies than him.</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LEU_ROCA_REASON_BORDERS" Language="en_US">
+			<Text>(You're too close to his borders)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_ROCA_BORDERS" Language="en_US">
+			<Text>Roca dislikes civilizations that settle or have units close to his borders</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LEU_ROCA_REASON_TECH" Language="en_US">
+			<Text>(You have less technologies discovered than him)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_ROCA_TECH" Language="en_US">
+			<Text>Roca doesn't respect civilizations with less technologies than him</Text>
+		</Row>
+
+
+		<!-- Leader DOM -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LEU_ROCA" Language="en_US">
+			<Text>The proud people of Argentina look up to you, Julio Roca, president and great lieutenant. Lead your nation to glory by defeating the enemies that dare stand in your borders, as you expand the land and might of Argentina. Make use of the colonial Estancias to feed and empower your people, as well as strategic points in your conquests. You are called to bring Argentina to a new age of glory above your neighbors. Should you succeed, great Julio Argentino Roca, your people will forever remember you.</Text>
+		</Row>  
+
+		<!-- Leader Diplo -->
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Well met. I'm Julio Argentino Roca. Yes, my second name is in fact Argentino, and I proudly live with it, and honour it and my nation with conquest and progress. And you are?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Just here there's an Estancia with some top-quality meat for us to enjoy, care to join us as civilized folk?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I'm most grateful.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Let us exchange information on our capitals for the mutual growth of our people.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Your visit is welcome, as long as you don't come near my lands.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Fine.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>No.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I have sent my troops with some meat and books from Argentina, to feed our stomachs and our progress. Will you accept or are you just a barbarian?</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I accept your request.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>These lands are beautiful, not for uncivilized folk such as you.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Don't make me regret this offer.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Excellent.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I'm afraid I can't accept your proposal.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Your people are civilized. Argentina could benefit from a Friendship with you.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I accept.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Pffft.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Let us form an alliance to destroy the uncivilized barbarians around us!</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>You're an example to follow, truly you have progressed far.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I warn you, I kill any uncivilized barbarian that threatens my rightful lands!</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>My troops are ready to destroy your troops near my borders. Leave.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_ROCA_ANY}</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_ROCA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>So uncivilized.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>You're so undeserving of the status of "Human Being", you and your people are no more than mere animals. (Denounces You).</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>At last! Some action!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Let this day be remembered, for today starts my great conquest of the lands I own but you're standing upon.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>Well fought...</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>There is no way my people will surrender!</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I have taken enough from you, my troops need to rest sometimes... Shall we sign a treaty or something?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>I can't believe my people lost to you brutes! But know that nothing stands in the path of progress!
+			</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_LEU_ROCA_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LEU_ROCA_ANY]</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Teniente</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Hidalgo</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Consul</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Encomendero</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Virrey</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Marqués</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Comandante</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_LEU_ROCA" Language="en_US">
+			<Text>Emperador</Text>
+		</Row>
+
+
+		<!-- Leader Pedia -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEU_ROCA_TITLE" Language="en_US">
+			<Text>Julio Argentino Roca</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEU_ROCA_QUOTE" Language="en_US">
+			<Text>We shall seal with our blood and our swords, once and for ever, this Argentine nationality, which must develop like the Egyptian Pyramids and the power of Empires at the price of the blood and sweat of many generations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEU_ROCA_SUBTITLE" Language="en_US">
+			<Text>El Zorro</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_ROCA_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Roca's Argentina is more military oriented than that of Evita's. With the Estancias as a strong option in early game Roca can focus on expanding and defending his territory while strengthening his culture.
+			</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_ROCA_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Roca is a strong leader and a powerful enemy. Be careful when dealing against his troops on the borders, for that is his primary way of expansion. Playing Roca allows for strong turtling strategies while building up culture and Musicians for Argentina.</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_ROCA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Julio Argentino Roca (1843-1914) was an Argentine general and the leader of the oligarchy that held political control of Argentina from 1880 to 1916. He was a typical 19th-century caudillo.</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_ROCA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Julio Roca was born of a prominent and wealthy Argentine family in Tucumán on July 17, 1843. He received a degree from the National College in Uruguay. When he was approximately fifteen, he volunteered to fight for the interior provinces in the struggle against the forces of Buenos Aires and was commissioned a sublieutenant; thereafter he remained on the military rolls for a period of 55 years of continuous service.</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_ROCA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Upon the death of the secretary of war, Adolfo Alsino, Roca undertook a successful campaign against the Indians in the south and added extensive land to the national domain, most of which fell into his and his friends' hands. Also, the Indian captives were to all intents and purposes forced into slavery under the application of old colonial laws. The results of the successful campaign made Roca popular in powerful circles, and he was elected president in 1880.</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_ROCA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Roca's administration ushered in a period of Argentine history known as the "era of the oligarchy," which lasted until 1916. Its core was made up of the great landowners, and it exerted its power through what has been called the most powerful farmers' organization in the Western Hemisphere, plus certain commercial elements with close ties with the British. On the credit side of the ledger, his government was powerful enough to end the many years of political chaos which had preceded his assumption of office.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<Row Tag="LOC_DISTRICT_LEU_ESTANCIA_NAME" Language="en_US">
+			<Text>Estancia</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LEU_ESTANCIA_DESCRIPTION" Language="en_US">
+			<Text>Replacement for the Encampment district for Roca's Argentina, unlocked with Horseback Riding. Estancias allow Military Engineers to be trained without Armories and 25% Faster, and increase the Border Expansion rate by 25%. They also have a [ICON_FOOD] Food Adjacency Bonus with Pastures and Forts.</Text>
+		</Row>
+
+		<Row Tag="LOC_PASTURE_ESTANCIA_PRODUCTION" Language="en_US">
+			<Text>[ICON_PRODUCTION]Production from adjacent Pastures.</Text>
+		</Row>
+		<Row Tag="LOC_FORT_ESTANCIA_PRODUCTION" Language="en_US">
+			<Text>[ICON_PRODUCTION]Production from adjacent Forts.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_LEU_ESTANCIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Estancias, or ranches, play a huge part in Argentina's culture, economy and history. In the early days these establishments were responsible for making Argentina one of the biggest meat and grain producers in the world. These enormous ranches dotted the entire countryside and are to this day where the best steaks in the world come from. During the conflicts with the Mapuche and Pehuelche Estancias also served as important defense points for the frontier.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

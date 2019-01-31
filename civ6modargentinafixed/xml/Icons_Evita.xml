@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_32"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_45"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_48"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_50"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_55"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_64"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_80"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA" 		IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_256"/>
+		<Row Name="ICON_ATLAS_LEU_EVITA_CIV"	IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_Civ.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_LEU_EVITA" Atlas="ICON_ATLAS_LEU_EVITA" Index="0"/>
+		<Row Name="ICON_LEADER_LEU_EVITA_CIV" Atlas="ICON_ATLAS_LEU_EVITA_CIV" Index="0"/>
+	</IconDefinitions>
+</GameData>

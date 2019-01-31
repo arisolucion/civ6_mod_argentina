@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Estancia_Icon_128"/>
+			<m_ObjectName text="Estancia_Icon_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Estancia_Icon_256"/>
+			<m_ObjectName text="Estancia_Icon_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Estancia_Icon_32"/>
+			<m_ObjectName text="Estancia_Icon_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Estancia_Icon_38"/>
+			<m_ObjectName text="Estancia_Icon_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Estancia_Icon_50"/>
+			<m_ObjectName text="Estancia_Icon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Estancia_Icon_80"/>
+			<m_ObjectName text="Estancia_Icon_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEU_ROCA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LEU_ROCA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_ROCA_1"/>
+			<m_ObjectName text="LEU_ROCA_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_ROCA_2"/>
+			<m_ObjectName text="LEU_ROCA_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_ROCA_3"/>
+			<m_ObjectName text="LEU_ROCA_3"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_ROCA_4"/>
+			<m_ObjectName text="LEU_ROCA_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_256"/>
+			<m_ObjectName text="Icon_Leu_Roca_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_32"/>
+			<m_ObjectName text="Icon_Leu_Roca_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_45"/>
+			<m_ObjectName text="Icon_Leu_Roca_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_48"/>
+			<m_ObjectName text="Icon_Leu_Roca_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_50"/>
+			<m_ObjectName text="Icon_Leu_Roca_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_55"/>
+			<m_ObjectName text="Icon_Leu_Roca_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_64"/>
+			<m_ObjectName text="Icon_Leu_Roca_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_80"/>
+			<m_ObjectName text="Icon_Leu_Roca_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEU_ROCA"/>
+			<m_ObjectName text="LEADER_LEU_ROCA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEU_EVITA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LEU_EVITA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEU_EVITA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LEU_EVITA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_EVITA_1"/>
+			<m_ObjectName text="LEU_EVITA_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_EVITA_2"/>
+			<m_ObjectName text="LEU_EVITA_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_EVITA_3"/>
+			<m_ObjectName text="LEU_EVITA_3"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_EVITA_4"/>
+			<m_ObjectName text="LEU_EVITA_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_256"/>
+			<m_ObjectName text="Icon_Leu_Evita_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_32"/>
+			<m_ObjectName text="Icon_Leu_Evita_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_45"/>
+			<m_ObjectName text="Icon_Leu_Evita_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_48"/>
+			<m_ObjectName text="Icon_Leu_Evita_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_50"/>
+			<m_ObjectName text="Icon_Leu_Evita_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_55"/>
+			<m_ObjectName text="Icon_Leu_Evita_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_64"/>
+			<m_ObjectName text="Icon_Leu_Evita_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_80"/>
+			<m_ObjectName text="Icon_Leu_Evita_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitPortrait200"/>
+			<m_ObjectName text="GauchoUnitPortrait200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitPortrait256"/>
+			<m_ObjectName text="GauchoUnitPortrait256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitPortrait38"/>
+			<m_ObjectName text="GauchoUnitPortrait38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitPortrait50"/>
+			<m_ObjectName text="GauchoUnitPortrait50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitPortrait70"/>
+			<m_ObjectName text="GauchoUnitPortrait70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitPortrait95"/>
+			<m_ObjectName text="GauchoUnitPortrait95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Arrabal_Icon_128"/>
+			<m_ObjectName text="Arrabal_Icon_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Arrabal_Icon_256"/>
+			<m_ObjectName text="Arrabal_Icon_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Arrabal_Icon_32"/>
+			<m_ObjectName text="Arrabal_Icon_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Arrabal_Icon_38"/>
+			<m_ObjectName text="Arrabal_Icon_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Arrabal_Icon_50"/>
+			<m_ObjectName text="Arrabal_Icon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Arrabal_Icon_80"/>
+			<m_ObjectName text="Arrabal_Icon_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitFlag22"/>
+			<m_ObjectName text="GauchoUnitFlag22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitFlag256"/>
+			<m_ObjectName text="GauchoUnitFlag256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitFlag32"/>
+			<m_ObjectName text="GauchoUnitFlag32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitFlag38"/>
+			<m_ObjectName text="GauchoUnitFlag38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitFlag50"/>
+			<m_ObjectName text="GauchoUnitFlag50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GauchoUnitFlag80"/>
+			<m_ObjectName text="GauchoUnitFlag80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_256"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_32"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_45"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_48"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_50"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_55"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_64"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_80"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_SANMARTIN_1"/>
+			<m_ObjectName text="LEU_SANMARTIN_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_SANMARTIN_2"/>
+			<m_ObjectName text="LEU_SANMARTIN_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEU_SANMARTIN_3"/>
+			<m_ObjectName text="LEU_SANMARTIN_3"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEU_SANMARTIN"/>
+			<m_ObjectName text="LEADER_LEU_SANMARTIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_22"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_256"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_30"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_36"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_44"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_48"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_50"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_64"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Argentina_Alpha_80"/>
+			<m_ObjectName text="Icon_Leu_Argentina_Alpha_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_Civ_256"/>
+			<m_ObjectName text="Icon_Leu_Evita_Civ_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_Civ_256"/>
+			<m_ObjectName text="Icon_Leu_Roca_Civ_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Roca_Civ_45"/>
+			<m_ObjectName text="Icon_Leu_Roca_Civ_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_Civ_256"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_Civ_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_SanMartin_Civ_45"/>
+			<m_ObjectName text="Icon_Leu_SanMartin_Civ_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Icon_Leu_Evita_Civ"/>
+			<m_ObjectName text="Icon_Leu_Evita_Civ"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderosUnitPortrait200"/>
+			<m_ObjectName text="GranaderosUnitPortrait200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderosUnitPortrait256"/>
+			<m_ObjectName text="GranaderosUnitPortrait256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderosUnitPortrait38"/>
+			<m_ObjectName text="GranaderosUnitPortrait38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderosUnitPortrait50"/>
+			<m_ObjectName text="GranaderosUnitPortrait50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderosUnitPortrait70"/>
+			<m_ObjectName text="GranaderosUnitPortrait70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderosUnitPortrait95"/>
+			<m_ObjectName text="GranaderosUnitPortrait95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderoUnitFlag22"/>
+			<m_ObjectName text="GranaderoUnitFlag22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderoUnitFlag256"/>
+			<m_ObjectName text="GranaderoUnitFlag256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderoUnitFlag32"/>
+			<m_ObjectName text="GranaderoUnitFlag32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderoUnitFlag38"/>
+			<m_ObjectName text="GranaderoUnitFlag38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderoUnitFlag50"/>
+			<m_ObjectName text="GranaderoUnitFlag50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GranaderoUnitFlag80"/>
+			<m_ObjectName text="GranaderoUnitFlag80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

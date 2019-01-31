@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		
+		<Row Tag="LOC_DISTRICT_LEU_ARRABAL_NAME" Language="en_US">
+			<Text>Arrabal</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LEU_ARRABAL_DESCRIPTION" Language="en_US">
+			<Text>Argentine unique replacement for the Neighborhood district. Aside from the base housing based on appeal, Arrabales also generate +1 [ICON_PRODUCTION] Production for every 2 adjacent districts. When adjacent to a district it also generates +1 [ICON_GREATPERSON] Great Musician Point.</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_ARRABAL_PRODUCTION" Language="en_US">
+			<Text>[ICON_PRODUCTION]Production and [ICON_GREATPERSON] Great Musician Points from adjacent Districts.</Text>
+		</Row>
+		
+
+		<Row Tag="LOC_TOOLTIP_ARRABAL_APPEAL_BREATHTAKING" Language="en_US">
+			<Text>Breathtaking.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_ARRABAL_APPEAL_CHARMING" Language="en_US">
+			<Text>Charming.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_ARRABAL_APPEAL_AVERAGE" Language="en_US">
+			<Text>Average.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_ARRABAL_APPEAL_UNINVITING" Language="en_US">
+			<Text>Uninviting.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_ARRABAL_APPEAL_DISGUSTING" Language="en_US">
+			<Text>Disgusting.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICS_PAGE_DISTRICT_LEU_ARRABAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Arrabales were neighborhoods built on Argentina, usually linked to the working class of the country. It is within Arrabales where Tango was born. The tango’s roots make it a song for marginalized people. The tango’s vibrant beat fuses traditions of European immigrants, South-American natives and descendants of African slaves. The tango is the product of a concrete historical process: a biological and cultural mix that took place in the urban suburbs of Buenos Aires from the end of the nineteenth century until the 1960s. The soul of Buenos Aires is expressed through this song. The tango reflects its inhabitants’ way of being and its folklore.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

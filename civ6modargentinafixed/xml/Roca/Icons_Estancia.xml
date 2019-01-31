@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_LEU_ESTANCIA" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Estancia_Icon_256.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ESTANCIA" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="Estancia_Icon_128.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ESTANCIA" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="Estancia_Icon_80.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ESTANCIA" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="Estancia_Icon_50.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ESTANCIA" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="Estancia_Icon_38.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ESTANCIA" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="Estancia_Icon_32.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_BUILDING_LEU_ESTANCIA" Atlas="ICON_ATLAS_LEU_ESTANCIA" Index="0"/>
+
+
+		<Row Name="ICON_DISTRICT_LEU_ESTANCIA"    	               		Atlas="ICON_ATLAS_LEU_ESTANCIA" Index="0"/>
+
+
+	</IconDefinitions>
+</GameData>

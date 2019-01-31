@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_LEU_ARGENTINA</CivilizationType>
+			<LeaderType>LEADER_LEU_SANMARTIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_LEADER_LEU_SANMARTIN_CIV</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LEU_SANMARTIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LEU_SANMARTIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_LEU_ARGENTINA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_LEADER_LEU_SANMARTIN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_LEU_SANMARTIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_LEU_SANMARTIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LEU_SANMARTIN</LeaderAbilityIcon>
+			<Portrait>LEADER_LEU_SANMARTIN</Portrait>
+			<PortraitBackground>LEADER_HOJO_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<PlayerItems>
+		<Row CivilizationType="CIVILIZATION_LEU_ARGENTINA" LeaderType="LEADER_LEU_SANMARTIN" Type="UNIT_LEU_GAUCHO" Icon="ICON_UNIT_LEU_GAUCHO" Name="LOC_UNIT_LEU_GAUCHO_NAME" Description="LOC_UNIT_LEU_GAUCHO_DESCRIPTION" SortIndex="10" />
+		<Row CivilizationType="CIVILIZATION_LEU_ARGENTINA" LeaderType="LEADER_LEU_SANMARTIN" Type="DISTRICT_LEU_ARRABAL" Icon="ICON_DISTRICT_LEU_ARRABAL" Name="LOC_DISTRICT_LEU_ARRABAL_NAME" Description="LOC_DISTRICT_LEU_ARRABAL_DESCRIPTION" SortIndex="20" />
+		<Row CivilizationType="CIVILIZATION_LEU_ARGENTINA" LeaderType="LEADER_LEU_SANMARTIN" Type="UNIT_LEU_GRANADERO" Icon="ICON_UNIT_LEU_GRANADERO" Name="LOC_UNIT_LEU_GRANADERO_NAME" Description="LOC_UNIT_LEU_GRANADERO_DESCRIPTION" SortIndex="21" />
+
+
+	</PlayerItems>	
+</GameData>

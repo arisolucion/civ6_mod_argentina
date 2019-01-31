@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_UNIT_LEU_GRANADERO_NAME" Language="en_US">
+			<Text>Granadero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LEU_GRANADERO_DESCRIPTION" Language="en_US">
+			<Text>Unique replacement for the Cavalry Unit for José de San Martín, unlocked at Nationalism. Receives a weaker Ranged Attack aside from its normal melee attack and suffers no combat penalties when damaged. </Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_GRANADERO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Granaderos a Caballo ("Mounted Grenadiers") is a regiment of the Argentine army first commanded by José de San Martin in 1812. The strict training regimen and rules of conduct established by Jose de San Martin for the Granaderos a Caballo became a model for the Argentine army. Rigorous military discipline, especially in maneuvers, training and parade drills were a defining characteristic of the regiment. The Granaderos a Caballo fought in the Argentine War of Independence and the Cisplatine War, subsequently becoming the Presidential Honor Guard in 1825. Refusing to replenish its membership with soldiers who had not fought in the Argentine War of Independence, the regiment was forced to disband in 1826. However, the regiment was later reinstated in 1903 and fought bravely in the Falklands War of 1982.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

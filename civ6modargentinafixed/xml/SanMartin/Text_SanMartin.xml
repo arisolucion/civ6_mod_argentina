@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		
+		<!-- Leader Text -->
+		<Row Tag="LOC_LEADER_LEU_SANMARTIN_NAME" Language="en_US">
+			<Text>José de San Martín</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_SANMARTIN_NAME" Language="en_US">
+			<Text>Cruce de los Andes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_SANMARTIN_DESCRIPTION" Language="en_US">
+			<Text>Mounted units may move through mountains, and generate [ICON_GreatPerson] Great Person Points for Great Generals and Great Musicians when defeating enemy units. May build Granaderos at the discovery of the Nationalism Civic.</Text>
+		</Row>
+		<!-- Leader Agenda -->
+
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>May Heaven preside over your destinies and may you reach the summit of happiness and peace.</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_SANMARTIN_HORSES" Language="en_US">
+			<Text>In these beatiful lands it is a great decision to train skilled horsemen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LEU_SANMARTIN_HORSES" Language="en_US">
+			<Text>(You have a respectable amount of Horse Units)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_SANMARTIN_HORSES" Language="en_US">
+			<Text>San Martin respects you for your dedication to mounted units</Text>
+		</Row>
+		
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>The real contest in the world is between those who value freedom and those who do not, and you… you are on the wrong side.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_SANMARTIN_CITIES" Language="en_US">
+			<Text>I see you believe these lands are yours. These lands are of the Gauchos and we shall fight for it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LEU_SANMARTIN_CITIES" Language="en_US">
+			<Text>(You have captured too many cities)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_SANMARTIN_CITIES" Language="en_US">
+			<Text>San Martin dislikes the amount of cities you captured</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_LEU_SANMARTIN_NAME" Language="en_US">
+			<Text>Logia de Lautaro</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LEU_SANMARTIN_DESCRIPTION" Language="en_US">
+			<Text>Likes leaders that focus on training mounted units. Dislikes leaders who have captured too many cities from other players.</Text>
+		</Row>
+		
+		<!-- DOM -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LEU_SANMARTIN" Language="en_US">
+			<Text>A continent rises up alongside you, José de San Martín, esteemed general and protector of liberty. Your Army of the Andes is a mighty force for freedom and the strength of your loyal Granaderos is unparalleled. Go now, Libertador, and break the chains of foreign domination that bind the peoples of this continent. Let there be freedom, the rest matters not!</Text>
+		</Row>
+
+		<!-- Diplomacy -->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Saludos! I am General José de San Martín, Liberator of Argentina and Protector of Peru. Long live the nation, freedom, and independence!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Would you care to visit one of Argentina's proud settlements? They abound with free and industrious citizens!</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I shall accept your invitation.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I suggest we exchange information on the locations of our capitals. I want to know more of your distant nation.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Saludos.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I accept your kind gifts.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I cannot accept these offerings.</Text>
+		</Row>
+		<!--AI Requests-->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I have dispatched a delegation bearing gifts of fine meats and cloth. The sturdy mules that bear these gifts are also yours should you want them.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Friends of freedom are always welcome here.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Argentina's doors are closed to tyrants.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>The Revolution against tyranny must continue! Would you allow my troops to pass through your lands so that we may achieve this goal?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I would gladly link arms with a fellow lover of freedom.</Text>
+		</Row>
+		<!--AI Rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>No. I only want those who are Lions as friends.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>My best friend is one who rights my wrongs and reproaches my mistakes. Would you like to be that person?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Nothing is left for me to do but to offer you my sincerest thanks.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>You wound me.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>The soldiers of our land know no luxury but glory. Join with me, and we shall share this luxury with you and your own troops.</Text>
+		</Row>
+	
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Your troops gather near our borders. I warn you: If you intend on war, even the rocks of Argentina will rise to reject foreign invaders.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I accept.</Text>
+		</Row>
+		<!-- AI Rejects Deal -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I cannot accept this offer.</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>I do not fear the words of tyrants.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>The age of freedom and independence is coming and no longer shall the strong rule over the small with an iron fist. Change your ways or face the army of liberation (Denounces You).</Text>
+		</Row>
+		<!--Rationale-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDAREASON" Language="en_US">
+			<Text>(You have more cities)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>Your coarse impudence in making me employ my sword in war is simply incomprehensible. You insolent scoundrel, you will come to rue this decision!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>The time of tyrants has passed! I made a sacred promise that if liberty should ever be attacked, I would claim the honor of defending the freedom of those oppressed; and now the time has come to make good on that promise.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>My promises to the people for whom I have waged war have been fulfilled.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>No. I shall either be victorious, or I shall be nothing.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>A well-fought defeat is worth more than a casual victory. Now is the time to lay down arms, don't you agree?</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>This is the exhaustion of death… I only regret not having anything else to sacrifice to the desire of contributing to the freedom of my country.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_LEU_SANMARTIN_ANY" Language="en_US">
+			<Text>This is the exhaustion of death… I only regret not having anything else to sacrifice to the desire of contributing to the freedom of my country.</Text>
+		</Row>
+		
+		
+		<!--MOD SUPPORT-->
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Teniente</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Hidalgo</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Consul</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Encomendero</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Virrey</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Marqués</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Comandante</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_LEU_SANMARTIN" Language="en_US">
+			<Text>Emperador</Text>
+		</Row>
+
+		<!-- Leader Pedia -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEU_SANMARTIN_TITLE" Language="en_US">
+			<Text>José de San Martín</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEU_SANMARTIN_QUOTE" Language="en_US">
+			<Text>If there is victory in overcoming the enemy, there is a greater victory when a man overcomes himself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEU_SANMARTIN_SUBTITLE" Language="en_US">
+			<Text>Libertador</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SANMARTIN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Itzcoatl is best suited for a Cultural and a Domination victory. When focusing against Cities with Theater or Campus Districts it's a good idea to pillage them as you'll receive additional Great Writer Points. After Conquering cities feed them with Chinampas</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SANMARTIN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Chinampas proivde a lot of bonuses when built in the right position. Use them to aid the growth on your cities, specially captured ones. Remember that they can be built in Lakes and Oasis as well, so be in the lookout for such features.</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SANMARTIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>José de San Martín was an Argentine general and statesman who helped lead the revolutions against Spanish rule in Argentina, Chile, and Peru. San Martín is regarded as a national hero of Argentina and Peru, and, together with Bolívar, one of the Liberators of Spanish South America</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SANMARTIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>San Martín's father, Juan de San Martín, a professional soldier, was administrator of Yapeyú, formerly a Jesuit mission station in Guaraní Indian territory, on the northern frontier of Argentina. His mother, Gregoria Matorras, was also Spanish. The family returned to Spain when José was six. From 1785 to 1789 he was educated at the Seminary of Nobles in Madrid, leaving there to begin his military career as a cadet in the Murcia infantry regiment. For the next 20 years he was a loyal officer of the Spanish monarch, fighting against the Moors in Oran; against the British, who held him captive for more than a year; and against the Portuguese in the War of the Oranges. He was made captain in 1804</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SANMARTIN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>
+				The turning point in San Martín's career came in 1808, following Napoleon's occupation of Spain and the subsequent patriotic uprising against the French there. For two years he served the Sevilla junta that was conducting the war on behalf of the imprisoned Spanish king Ferdinand VII. He was promoted to the rank of lieutenant colonel for his conduct in the Battle of Bailén and was elevated to command of the Sagunto Dragoons after the Battle of Albuera. Instead of taking up his new post, he sought permission to go to Lima, the capital of the viceroyalty of Peru, but traveled by way of London to Buenos Aires, which had become the principal centre of resistance in South America to the Sevilla junta and its successor, the Cádiz-based Council of Regency. There, in the year 1812, San Martín was given the task of organizing a corps of grenadiers against the Spanish royalists centred in Peru who threatened the revolutionary government in Argentina.
+				[NEWLINE][NEWLINE]In later years, San Martín averred that he had sacrificed his career in Spain because he had responded to the call of his native land, and this is the view taken by Argentinian historians. Undoubtedly, peninsular Spanish prejudice against anyone born in the Indies must have rankled throughout his career in Spain and caused him to identify himself with the creole revolutionaries.
+			</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SANMARTIN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>
+				In the service of the Buenos Aires government, San Martín distinguished himself as a trainer and leader of soldiers. San Martín recognized that the Río de la Plata provinces would never be secure so long as the royalists held Lima, but he perceived the military impossibility of reaching the centre of viceregal power by way of the conventional overland route through Upper Peru. He therefore quietly prepared the masterstroke that was his supreme contribution to the liberation of southern South America. First, he disciplined and trained the army around Tucumán so that, with the assistance of gaucho guerrilleros, they would be capable of a holding operation. Then, on the pretense of ill health, he got himself appointed governor intendant of the province of Cuyo, the capital of which was Mendoza, the key to the routes across the Andes. There, he set about creating an army that would link up overland with the soldiers of the patriotic government in Chile and then proceed by sea to attack Peru.
+				[NEWLINE][NEWLINE]To his disappointment, when the first stage of this plan was nearing completion, loyalist forces recaptured Chile. This made it necessary for San Martín to fight his way westward across the formidable barrier of the Andes. On February 12 he surprised and defeated the royalists at Casas de Chacabuco and took Santiago, where he refused the offer of the governorship of Chile in favour of Bernardo O’Higgins. The next stage of San Martín’s plan involved the creation of the Chilean navy and the accumulation of troop ships. This was accomplished, despite a shortage of funds, by August 1820, when the rather shoddy fleet, consisting mainly of armed merchant ships, under the command of Thomas Cochrane, left Valparaíso for the Peruvian coast. Cochrane had failed the year before to take the chief port, Callao, which was well-defended. The port was therefore blockaded, and the troops were landed to the south near Pisco; from this point they could threaten Lima from the landward side. San Martín resisted the temptation to assault the capital, which was defended by a superior force, and waited for almost a year, until the royalists, despairing of assistance from Ferdinand VII, withdrew to the mountains. San Martín and his army then entered Lima, the independence of Peru was proclaimed on July 28, 1821, and the victorious revolutionary commander was made protector.
+				[NEWLINE][NEWLINE]San Martín’s position was nevertheless insecure. He had broken with his supporters in Buenos Aires when, against their wishes, he insisted on pressing on to Lima; he was unsure of the loyalty of the Peruvian people and of the backing of some of his officers, many of whom suspected him of dictatorial or monarchical ambitions; and he lacked the forces to subdue the royalist remnants in the interior. Moreover, Simón Bolívar, who had liberated the northern provinces of South America, had annexed Guayaquil, a port and province that San Martín had hoped would opt for incorporation in Peru. He therefore decided to confront Bolívar.
+			</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+	
+		<Row Name="ICON_ATLAS_LEU_GRANADERO" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderoUnitFlag256.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderoUnitFlag80.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderoUnitFlag50.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderoUnitFlag38.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderoUnitFlag32.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderoUnitFlag22.dds"/>
+
+		<Row Name="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderosUnitPortrait256.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderosUnitPortrait200.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderosUnitPortrait95.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderosUnitPortrait70.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderosUnitPortrait50.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="GranaderosUnitPortrait38.dds"/>
+
+	
+	</IconTextureAtlases>
+	<IconDefinitions>
+
+		<Row Name="ICON_UNIT_LEU_GRANADERO"						Atlas="ICON_ATLAS_LEU_GRANADERO" Index="0"/>
+		<Row Name="ICON_UNIT_LEU_GRANADERO_BLACK"						Atlas="ICON_ATLAS_LEU_GRANADERO" Index="0"/>
+		<Row Name="ICON_UNIT_LEU_GRANADERO_WHITE"						Atlas="ICON_ATLAS_LEU_GRANADERO" Index="0"/>
+
+		<Row Name="ICON_UNIT_LEU_GRANADERO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_AFRICAN_UNIT_LEU_GRANADERO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_SOUTHAM_UNIT_LEU_GRANADERO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_MEDIT_UNIT_LEU_GRANADERO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_ASIAN_UNIT_LEU_GRANADERO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GRANADERO_PORTRAIT" Index="0"/>
+
+
+	</IconDefinitions>
+</GameData>

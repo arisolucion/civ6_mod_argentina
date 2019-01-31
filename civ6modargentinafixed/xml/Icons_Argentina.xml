@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="22" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_22.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="30" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_30.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="36" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_36.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="44" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_44.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="48" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_48.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="50" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_50.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="64" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_64.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="80"  IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_80.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="256" IconsPerRow="2" IconsPerColumn="1" Filename="Icon_Leu_Argentina_Alpha_256.dds"/>
+		<Row Name="ICON_ATLAS_B_LEU_ARGENTINA" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_Evita_Civ.dds"/>
+
+		<Row Name="ICON_ATLAS_LEU_GAUCHO" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitFlag256.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitFlag80.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitFlag50.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitFlag38.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitFlag32.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitFlag22.dds"/>
+
+		<Row Name="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitPortrait256.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitPortrait200.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitPortrait95.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitPortrait70.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitPortrait50.dds"/>
+		<Row Name="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="GauchoUnitPortrait38.dds"/>
+
+		<Row Name="ICON_ATLAS_LEU_ARRABAL" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Arrabal_Icon_256.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ARRABAL" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="Arrabal_Icon_128.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ARRABAL" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="Arrabal_Icon_80.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ARRABAL" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="Arrabal_Icon_50.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ARRABAL" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="Arrabal_Icon_38.dds"/>
+		<Row Name="ICON_ATLAS_LEU_ARRABAL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="Arrabal_Icon_32.dds"/>
+
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_CIVILIZATION_BUENOS_AIRES"				Atlas="ICON_ATLAS_B_LEU_ARGENTINA" Index="1"/>
+
+		<Row Name="ICON_CIVILIZATION_LEU_ARGENTINA"				Atlas="ICON_ATLAS_B_LEU_ARGENTINA" Index="0"/>
+
+
+		<Row Name="ICON_DISTRICT_LEU_ARRABAL"    	               		Atlas="ICON_ATLAS_LEU_ARRABAL" Index="0"/>
+
+		<Row Name="ICON_UNIT_LEU_GAUCHO"						Atlas="ICON_ATLAS_LEU_GAUCHO" Index="0"/>
+		<Row Name="ICON_UNIT_LEU_GAUCHO_BLACK"						Atlas="ICON_ATLAS_LEU_GAUCHO" Index="0"/>
+		<Row Name="ICON_UNIT_LEU_GAUCHO_WHITE"						Atlas="ICON_ATLAS_LEU_GAUCHO" Index="0"/>
+
+		<Row Name="ICON_UNIT_LEU_GAUCHO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_AFRICAN_UNIT_LEU_GAUCHO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_SOUTHAM_UNIT_LEU_GAUCHO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_MEDIT_UNIT_LEU_GAUCHO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" Index="0"/>
+		<Row Name="ICON_ETHNICITY_ASIAN_UNIT_LEU_GAUCHO_PORTRAIT"					Atlas="ICON_ATLAS_LEU_GAUCHO_PORTRAIT" Index="0"/>
+
+
+	</IconDefinitions>
+</GameData>

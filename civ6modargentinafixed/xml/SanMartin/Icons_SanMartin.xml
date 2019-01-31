@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_32"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_45"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_48"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_50"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_55"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_64"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_80"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN" 		IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_256"/>
+		<Row Name="ICON_ATLAS_LEU_SANMARTIN_CIV"	IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Leu_SanMartin_Civ_45"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_LEU_SANMARTIN" Atlas="ICON_ATLAS_LEU_SANMARTIN" Index="0"/>
+		<Row Name="ICON_LEADER_LEU_SANMARTIN_CIV" Atlas="ICON_ATLAS_LEU_SANMARTIN_CIV" Index="0"/>
+	</IconDefinitions>
+</GameData>
