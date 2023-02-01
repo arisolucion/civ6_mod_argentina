@@ -38,19 +38,19 @@ VALUES	('MODIFIER_ALL_UNITS_NO_MOVE_TERRAIN',			'KIND_MODIFIER'),
 		('ABILITY_MOUNTAIN_MOVE_ALLOWED',							'KIND_ABILITY');
 
 UPDATE Terrains
-SET Impassable = 1
+SET Impassable = 0
 WHERE TerrainType = 'TERRAIN_GRASS_MOUNTAIN';
 UPDATE Terrains
-SET Impassable = 1
+SET Impassable = 0
 WHERE TerrainType = 'TERRAIN_PLAINS_MOUNTAIN';
 UPDATE Terrains
-SET Impassable = 1
+SET Impassable = 0
 WHERE TerrainType = 'TERRAIN_DESERT_MOUNTAIN';
 UPDATE Terrains
-SET Impassable = 1
+SET Impassable = 0
 WHERE TerrainType = 'TERRAIN_TUNDRA_MOUNTAIN';
 UPDATE Terrains
-SET Impassable = 1
+SET Impassable = 0
 WHERE TerrainType = 'TERRAIN_SNOW_MOUNTAIN';
 
 INSERT OR REPLACE INTO RequirementSets
